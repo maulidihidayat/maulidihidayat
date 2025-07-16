@@ -1,30 +1,34 @@
 <h1 align="center">Hi 👋, I'm Maulidi Hidayat</h1>
+<p align="center"><em>"Masih belajar, tapi siap berkarya." 🚀</em></p>
+
 <p align="center">
-  <em>"Masih belajar, tapi siap berkarya."</em>
+  <a href="https://github.com/maulidihidayat"><img src="https://img.shields.io/github/followers/maulidihidayat?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="mailto:maulidihidayat@gmail.com"><img src="https://img.shields.io/badge/Email-maulidihidayat%40gmail.com-blue?style=flat&logo=gmail" alt="Email Badge"></a>
 </p>
 
 ---
 
-- 👀 I’m interested in **building cool stuff**
-- 🌱 I’m currently learning **how to life and code**
-- 💞️ I’m looking to collaborate on **fun or meaningful projects**
-- 📫 How to reach me: **just call me up**
-- ⚡ Fun fact: **I love you** 😄
-
----
-
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/maulidihidayat/maulidihidayat/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 📊 GitHub Stats
+### 🧠 Skillset
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maulidihidayat&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maulidihidayat&theme=tokyonight" alt="streak" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,py,fastapi,git,github" />
 </p>
 
 ---
 
-> ✨ This `README.md` appears on your GitHub profile. Update it to reflect your awesomeness!
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maulidihidayat&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maulidihidayat&theme=tokyonight" width="49%" />
+</p>
+
+---
+
+### 🐍 Snake Animation (Commit History)
+<p align="center">
+  <img src="https://github.com/maulidihidayat/maulidihidayat/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+> ✨ This `README.md` is your GitHub profile’s front page. Customize it as you grow.
