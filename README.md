@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Maulidi Hidayat</h1>
-<p align="center"><em>"Masih belajar" 🚀</em></p>
-
 <p align="center">
   <a href="https://github.com/maulidihidayat"><img src="https://img.shields.io/github/followers/maulidihidayat?label=Follow&style=social" alt="GitHub Followers"></a>
   <a href="mailto:maulidihidayat@gmail.com"><img src="https://img.shields.io/badge/Email-maulidihidayat%40gmail.com-blue?style=flat&logo=gmail" alt="Email Badge"></a>
