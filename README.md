@@ -28,5 +28,3 @@
 </p>
 
 ---
-
-> ✨ This `README.md` is your GitHub profile’s front page. Customize it as you grow.
